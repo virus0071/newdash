@@ -83,6 +83,37 @@ h6 {
 	padding-top: 3px;
 	padding-bottom:3px;
 }
+
+.fa-grin-hearts{
+	color:green;
+	padding-top: 3px;
+	padding-bottom:3px;
+}
+
+.fa-grin-beam{
+	color:greenyellow;
+	padding-top: 3px;
+	padding-bottom:3px;
+}
+
+.fa-meh{
+	color:orange;
+	padding-top: 3px;
+	padding-bottom:3px;
+}
+
+.fa-angry{
+	color:pink;
+	padding-top: 3px;
+	padding-bottom:3px;
+}
+
+.fa-tired{
+	color:red;
+	padding-top: 3px;
+	padding-bottom:3px;
+}
+
 .title {
 	padding-bottom: 40px;
 }
